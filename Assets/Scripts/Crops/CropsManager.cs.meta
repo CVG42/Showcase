@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4d104d8914f7604bbb4acad42d6f3ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plowed: {instanceID: 0}
+  - seeded: {instanceID: 0}
+  - targetTilemap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

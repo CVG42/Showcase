@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2503e0d89f282454e89be145318748e4, type: 3}
+  m_Name: NotPlowable
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 6b5eb16bc096ea14885af899e8197e0c, type: 2}
+  - {fileID: 11400000, guid: a6a3589e4b6c9c54399ad65a19be590c, type: 2}
+  - {fileID: 11400000, guid: 3a2101f3cf7623747b2697bf8534ab55, type: 2}
+  - {fileID: 11400000, guid: 1afa87a4cfee1334fafe25e5d23d4003, type: 2}
+  - {fileID: 11400000, guid: da1d29079041f70429d22a3735566703, type: 2}
+  - {fileID: 11400000, guid: e0301c0bbaa991b4ba7fd605acf3348b, type: 2}
+  - {fileID: 11400000, guid: c23d997f403b1174dafb0c7ff3af4a08, type: 2}
+  - {fileID: 11400000, guid: e114d29c146fb8e49996cdac4e5e44b3, type: 2}
+  - {fileID: 11400000, guid: a77dc88b4cbe65347a0020512e10ad1b, type: 2}
+  - {fileID: 11400000, guid: 5e39bf22aa7e45d43b497554683fa6e4, type: 2}
+  - {fileID: 11400000, guid: cc0c27267dbf1f64c9aac5d4185338c5, type: 2}
+  - {fileID: 11400000, guid: 9351aa78c4992be438b85a635fdb6843, type: 2}
+  - {fileID: 11400000, guid: 06baa380ee9f5fa46afabb89649a3442, type: 2}
+  - {fileID: 11400000, guid: 1b024ee67d0f70d45a02886a4fbe1ba8, type: 2}
+  - {fileID: 11400000, guid: 0271e2e6fe201da4a9cbf67082f41bbe, type: 2}
+  - {fileID: 11400000, guid: 273ef658adb67514bac51adca948ec2b, type: 2}
+  - {fileID: 11400000, guid: 0b061dbe6b26c384d9ec059b92b88a22, type: 2}
+  - {fileID: 11400000, guid: d9855c52f018fc24b8fba96b4f64b0f3, type: 2}
+  - {fileID: 11400000, guid: 368398dcca757264da996a77a7189d5f, type: 2}
+  - {fileID: 11400000, guid: 7dc76a1f5fbeb004294e8cfac5dae5cd, type: 2}
+  - {fileID: 11400000, guid: 341005914117a154db7216505f9b96ac, type: 2}
+  - {fileID: 11400000, guid: 3b5a15e06bf3f5e4787fb1c37bd60b58, type: 2}
+  - {fileID: 11400000, guid: 523cab6497109264f9f4596fb1dcb1be, type: 2}
+  - {fileID: 11400000, guid: 51c83b6bc2937f343a46301467687b34, type: 2}
+  - {fileID: 11400000, guid: 9c1e4a8cfc8638a4c9f381ea7b65427f, type: 2}
+  - {fileID: 11400000, guid: 9e8a7a353716dcb4e8566e10298ca535, type: 2}
+  - {fileID: 11400000, guid: 686f13cf978e42d47ac1b965c574c56c, type: 2}
+  - {fileID: 11400000, guid: 978559f76e154874eafd4bc27f31e8a7, type: 2}
+  - {fileID: 11400000, guid: 94ecd252132b4f24db636bddc0484bb2, type: 2}
+  plowable: 0

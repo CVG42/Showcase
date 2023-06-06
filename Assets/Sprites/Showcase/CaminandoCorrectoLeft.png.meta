@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: d908f71ea350a7b4bafdab5fe821d63a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_0
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 6306
+        width: 576
+        height: 1658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86957f9b403c9834a8cff4eb382ce6c7
+      internalID: 1318561245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_1
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 6306
+        width: 576
+        height: 1658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4e97deae57a942b2dc293cc2f0e8b
+      internalID: 1341557418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_2
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 6306
+        width: 816
+        height: 1658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05f2818135a1645bedbc3a960e0839
+      internalID: 709935766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_3
+      rect:
+        serializedVersion: 2
+        x: 6783
+        y: 6306
+        width: 816
+        height: 1658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3891ed6ba4e2ad4d82e003334503766
+      internalID: 2122624663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_4
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 4248
+        width: 668
+        height: 1666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792be898843e36748b606b083383fcaf
+      internalID: -580484224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_5
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 4248
+        width: 668
+        height: 1666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e13c75e354a564eb68b15cf2cdaccb
+      internalID: -966826803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_6
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 4248
+        width: 676
+        height: 1742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57658ef34c86ce94f9f577621f6784f3
+      internalID: -1153345113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_7
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 4248
+        width: 676
+        height: 1742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2227ab497ef09548883d776e3139fe7
+      internalID: -850330159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_8
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2198
+        width: 588
+        height: 1666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2d8d248bca50f4cbb6722ea731bcaf
+      internalID: 1331378800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_9
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2198
+        width: 588
+        height: 1666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fad8fac75d7f48af31dc260fe07ad
+      internalID: 438183629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_10
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 2202
+        width: 828
+        height: 1662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad94d7b6fc96a4fa7aaaa5e547425d
+      internalID: -720343675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_11
+      rect:
+        serializedVersion: 2
+        x: 6783
+        y: 2202
+        width: 828
+        height: 1662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b271ee688311f041aa9e2670d9e23b1
+      internalID: 536054447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 152
+        width: 712
+        height: 1662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef93eb5ddf17f74e894d36060210ef2
+      internalID: 1458585719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_13
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 152
+        width: 712
+        height: 1662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e747d2fe31d34f93e528158a9f40d
+      internalID: 534691971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_14
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 156
+        width: 684
+        height: 1730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc09b4cffbdbe448c0abf4c2ebadc0
+      internalID: 895351996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminandoCorrectoLeft_15
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 156
+        width: 684
+        height: 1730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1399c364ad081b84cae9df9b311c6fa2
+      internalID: 169440888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CaminandoCorrectoLeft_12: 1458585719
+      CaminandoCorrectoLeft_0: 1318561245
+      CaminandoCorrectoLeft_4: -580484224
+      CaminandoCorrectoLeft_9: 438183629
+      CaminandoCorrectoLeft_3: 2122624663
+      CaminandoCorrectoLeft_5: -966826803
+      CaminandoCorrectoLeft_8: 1331378800
+      CaminandoCorrectoLeft_14: 895351996
+      CaminandoCorrectoLeft_1: 1341557418
+      CaminandoCorrectoLeft_7: -850330159
+      CaminandoCorrectoLeft_10: -720343675
+      CaminandoCorrectoLeft_2: 709935766
+      CaminandoCorrectoLeft_6: -1153345113
+      CaminandoCorrectoLeft_11: 536054447
+      CaminandoCorrectoLeft_13: 534691971
+      CaminandoCorrectoLeft_15: 169440888
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
