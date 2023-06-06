@@ -847,7 +847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   posA: {fileID: 1824968733}
   posB: {fileID: 1046026372}
-  speed: 3
+  speed: 1
   mustFlip: 0
   dialoguePanel: {fileID: 6618530}
   dialogueText: {fileID: 1569100417}
